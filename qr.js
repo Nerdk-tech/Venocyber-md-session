@@ -73,10 +73,10 @@ ______________________________________
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _https://youtube.com/@nerdktech?si=PZ_b0aVqhmnRmIBw_
 ║❒ *Owner:* _https://wa.me/message/+2348054671458_
-║❒ *Repo:* _https://github.com/Nerdk-tech/tanjiro-v1_
+║❒ *Repo:* _https://github.com/Nerdk-tech/TANJIRO-V1-_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/CNYtNFA67ecJ6FZ3sHlLKn_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l_
-║❒ *Plugins:* _https://github.com/Nerdk-tech/tanjiro-v1-plugins_
+║❒ *Plugins:* _https://github.com/Nerdk-tech/TANJIRO-V1-/tree/main/pluginss_
 ╚══════════════════════╝ 
 _____________________________________
 	
